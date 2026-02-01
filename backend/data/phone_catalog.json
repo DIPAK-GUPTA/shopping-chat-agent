@@ -1,0 +1,1134 @@
+[
+    {
+        "id": "pixel-8a",
+        "brand": "Google",
+        "model": "Pixel 8a",
+        "price_inr": 52999,
+        "display_size": 6.1,
+        "display_type": "OLED",
+        "refresh_rate": 120,
+        "resolution": "2400x1080",
+        "processor": "Google Tensor G3",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": false,
+        "battery_mah": 4492,
+        "fast_charging_watts": 18,
+        "wireless_charging": true,
+        "camera": {
+            "main_mp": 64,
+            "ultra_wide_mp": 13,
+            "telephoto_mp": null,
+            "front_mp": 13,
+            "features": [
+                "OIS",
+                "Night Sight",
+                "Magic Eraser",
+                "Photo Unblur",
+                "Best Take"
+            ]
+        },
+        "os_version": "Android 14",
+        "weight_grams": 188,
+        "dimensions": "152.1 x 72.7 x 8.9 mm",
+        "special_features": [
+            "7 years of updates",
+            "Titan M2 security",
+            "IP67 water resistant",
+            "AI features"
+        ],
+        "rating": 4.5,
+        "reviews_count": 12500,
+        "image_url": "https://lh3.googleusercontent.com/wT5NMM0s7n6vmqfkXL8qB-1DKEP9GdE9OQ5HpGqY5Ck"
+    },
+    {
+        "id": "oneplus-12r",
+        "brand": "OnePlus",
+        "model": "12R",
+        "price_inr": 39999,
+        "display_size": 6.78,
+        "display_type": "LTPO AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2780x1264",
+        "processor": "Snapdragon 8 Gen 2",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": false,
+        "battery_mah": 5500,
+        "fast_charging_watts": 100,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 8,
+            "telephoto_mp": null,
+            "front_mp": 16,
+            "features": [
+                "OIS",
+                "4K video",
+                "Nightscape"
+            ]
+        },
+        "os_version": "Android 14 (OxygenOS 14)",
+        "weight_grams": 207,
+        "dimensions": "163.3 x 75.3 x 8.8 mm",
+        "special_features": [
+            "100W SUPERVOOC charging",
+            "Alert Slider",
+            "Gaming Mode",
+            "Dolby Vision"
+        ],
+        "rating": 4.4,
+        "reviews_count": 18000,
+        "image_url": "https://oasis.opstatics.com/content/dam/oasis/page/2024/in/12r/specs/iron-gray.png"
+    },
+    {
+        "id": "samsung-s24",
+        "brand": "Samsung",
+        "model": "Galaxy S24",
+        "price_inr": 79999,
+        "display_size": 6.2,
+        "display_type": "Dynamic AMOLED 2X",
+        "refresh_rate": 120,
+        "resolution": "2340x1080",
+        "processor": "Exynos 2400",
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 4000,
+        "fast_charging_watts": 25,
+        "wireless_charging": true,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 12,
+            "telephoto_mp": 10,
+            "front_mp": 12,
+            "features": [
+                "OIS",
+                "3x optical zoom",
+                "Nightography",
+                "8K video"
+            ]
+        },
+        "os_version": "Android 14 (One UI 6.1)",
+        "weight_grams": 167,
+        "dimensions": "147 x 70.6 x 7.6 mm",
+        "special_features": [
+            "Galaxy AI",
+            "Circle to Search",
+            "Live Translate",
+            "IP68"
+        ],
+        "rating": 4.6,
+        "reviews_count": 25000,
+        "image_url": "https://images.samsung.com/in/smartphones/galaxy-s24/images/galaxy-s24-highlights-color-onyx-black.jpg"
+    },
+    {
+        "id": "samsung-a55",
+        "brand": "Samsung",
+        "model": "Galaxy A55 5G",
+        "price_inr": 39999,
+        "display_size": 6.6,
+        "display_type": "Super AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2340x1080",
+        "processor": "Exynos 1480",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": true,
+        "battery_mah": 5000,
+        "fast_charging_watts": 25,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 12,
+            "telephoto_mp": null,
+            "front_mp": 32,
+            "features": [
+                "OIS",
+                "Night mode",
+                "4K video"
+            ]
+        },
+        "os_version": "Android 14 (One UI 6.1)",
+        "weight_grams": 213,
+        "dimensions": "161.1 x 77.4 x 8.2 mm",
+        "special_features": [
+            "IP67 water resistant",
+            "Samsung Knox",
+            "4 years of updates"
+        ],
+        "rating": 4.3,
+        "reviews_count": 8500,
+        "image_url": "https://images.samsung.com/in/smartphones/galaxy-a55-5g/images/galaxy-a55-5g-highlights-awesome-iceblue.jpg"
+    },
+    {
+        "id": "samsung-m35",
+        "brand": "Samsung",
+        "model": "Galaxy M35 5G",
+        "price_inr": 21499,
+        "display_size": 6.6,
+        "display_type": "Super AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2340x1080",
+        "processor": "Exynos 1380",
+        "ram_gb": 6,
+        "storage_gb": 128,
+        "expandable_storage": true,
+        "battery_mah": 6000,
+        "fast_charging_watts": 25,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 8,
+            "telephoto_mp": null,
+            "front_mp": 13,
+            "features": [
+                "OIS",
+                "Night mode"
+            ]
+        },
+        "os_version": "Android 14 (One UI 6.1)",
+        "weight_grams": 214,
+        "dimensions": "162.3 x 77 x 8.4 mm",
+        "special_features": [
+            "6000mAh massive battery",
+            "Knox Vault",
+            "Vapour cooling"
+        ],
+        "rating": 4.2,
+        "reviews_count": 6200,
+        "image_url": "https://images.samsung.com/in/smartphones/galaxy-m35-5g/images/galaxy-m35-5g-highlights-thunder-gray.jpg"
+    },
+    {
+        "id": "xiaomi-14",
+        "brand": "Xiaomi",
+        "model": "14",
+        "price_inr": 69999,
+        "display_size": 6.36,
+        "display_type": "LTPO AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2670x1200",
+        "processor": "Snapdragon 8 Gen 3",
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 4610,
+        "fast_charging_watts": 90,
+        "wireless_charging": true,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 50,
+            "telephoto_mp": 50,
+            "front_mp": 32,
+            "features": [
+                "Leica optics",
+                "OIS",
+                "8K video",
+                "Leica Authentic",
+                "Leica Vibrant"
+            ]
+        },
+        "os_version": "Android 14 (HyperOS)",
+        "weight_grams": 193,
+        "dimensions": "152.8 x 71.5 x 8.2 mm",
+        "special_features": [
+            "Leica co-engineered",
+            "IP68",
+            "Xiaomi Surge battery",
+            "Compact flagship"
+        ],
+        "rating": 4.5,
+        "reviews_count": 9500,
+        "image_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0225/pms_1708420054.34621426.png"
+    },
+    {
+        "id": "redmi-note-13-pro-plus",
+        "brand": "Xiaomi",
+        "model": "Redmi Note 13 Pro+ 5G",
+        "price_inr": 31999,
+        "display_size": 6.67,
+        "display_type": "AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2712x1220",
+        "processor": "MediaTek Dimensity 7200 Ultra",
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 5000,
+        "fast_charging_watts": 120,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 200,
+            "ultra_wide_mp": 8,
+            "telephoto_mp": null,
+            "front_mp": 16,
+            "features": [
+                "OIS",
+                "200MP Samsung ISOCELL",
+                "4K video"
+            ]
+        },
+        "os_version": "Android 14 (MIUI 14)",
+        "weight_grams": 204,
+        "dimensions": "161.4 x 74.2 x 8.9 mm",
+        "special_features": [
+            "200MP camera",
+            "120W HyperCharge",
+            "IP68",
+            "Curved display"
+        ],
+        "rating": 4.4,
+        "reviews_count": 15000,
+        "image_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0225/pms_1705993467.png"
+    },
+    {
+        "id": "poco-x6-pro",
+        "brand": "Xiaomi",
+        "model": "POCO X6 Pro 5G",
+        "price_inr": 26999,
+        "display_size": 6.67,
+        "display_type": "AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2712x1220",
+        "processor": "MediaTek Dimensity 8300 Ultra",
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 5000,
+        "fast_charging_watts": 67,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 64,
+            "ultra_wide_mp": 8,
+            "telephoto_mp": null,
+            "front_mp": 16,
+            "features": [
+                "OIS",
+                "4K video"
+            ]
+        },
+        "os_version": "Android 14 (MIUI 14)",
+        "weight_grams": 186,
+        "dimensions": "160.5 x 74.4 x 8.3 mm",
+        "special_features": [
+            "Gaming-focused",
+            "LiquidCool 3.0",
+            "Dolby Vision"
+        ],
+        "rating": 4.3,
+        "reviews_count": 11000,
+        "image_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0225/pms_1705310899.png"
+    },
+    {
+        "id": "realme-gt-6t",
+        "brand": "Realme",
+        "model": "GT 6T 5G",
+        "price_inr": 30999,
+        "display_size": 6.78,
+        "display_type": "LTPO AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2780x1264",
+        "processor": "Snapdragon 7+ Gen 3",
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 5500,
+        "fast_charging_watts": 120,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 8,
+            "telephoto_mp": null,
+            "front_mp": 32,
+            "features": [
+                "OIS",
+                "4K video",
+                "Street Photography 2.0"
+            ]
+        },
+        "os_version": "Android 14 (Realme UI 5.0)",
+        "weight_grams": 191,
+        "dimensions": "162 x 75.1 x 8.7 mm",
+        "special_features": [
+            "5500mAh battery",
+            "120W charging",
+            "Vapor Chamber cooling",
+            "6000 nits peak brightness"
+        ],
+        "rating": 4.4,
+        "reviews_count": 7800,
+        "image_url": "https://image01.realme.net/general/20240515111212645.png"
+    },
+    {
+        "id": "realme-narzo-70-pro",
+        "brand": "Realme",
+        "model": "Narzo 70 Pro 5G",
+        "price_inr": 19999,
+        "display_size": 6.67,
+        "display_type": "AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2400x1080",
+        "processor": "MediaTek Dimensity 7050",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": true,
+        "battery_mah": 5000,
+        "fast_charging_watts": 67,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": null,
+            "telephoto_mp": null,
+            "front_mp": 16,
+            "features": [
+                "OIS",
+                "Night mode"
+            ]
+        },
+        "os_version": "Android 14 (Realme UI 5.0)",
+        "weight_grams": 185,
+        "dimensions": "162 x 75.4 x 7.6 mm",
+        "special_features": [
+            "IP65 splash resistant",
+            "Ultra Slim design",
+            "GT Mode 3.0"
+        ],
+        "rating": 4.2,
+        "reviews_count": 4500,
+        "image_url": "https://image01.realme.net/general/20240301164045.png"
+    },
+    {
+        "id": "nothing-phone-2a",
+        "brand": "Nothing",
+        "model": "Phone (2a)",
+        "price_inr": 23999,
+        "display_size": 6.7,
+        "display_type": "AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2412x1084",
+        "processor": "MediaTek Dimensity 7200 Pro",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": false,
+        "battery_mah": 5000,
+        "fast_charging_watts": 45,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 50,
+            "telephoto_mp": null,
+            "front_mp": 32,
+            "features": [
+                "OIS",
+                "4K video",
+                "Night mode"
+            ]
+        },
+        "os_version": "Android 14 (Nothing OS 2.5)",
+        "weight_grams": 190,
+        "dimensions": "161.7 x 76.3 x 8.6 mm",
+        "special_features": [
+            "Glyph Interface",
+            "Unique design",
+            "3 years updates",
+            "Clean software"
+        ],
+        "rating": 4.3,
+        "reviews_count": 6500,
+        "image_url": "https://nothing.tech/cdn/shop/files/Phone2a_Black_Front.png"
+    },
+    {
+        "id": "nothing-phone-2",
+        "brand": "Nothing",
+        "model": "Phone (2)",
+        "price_inr": 44999,
+        "display_size": 6.7,
+        "display_type": "LTPO OLED",
+        "refresh_rate": 120,
+        "resolution": "2412x1080",
+        "processor": "Snapdragon 8+ Gen 1",
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 4700,
+        "fast_charging_watts": 45,
+        "wireless_charging": true,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 50,
+            "telephoto_mp": null,
+            "front_mp": 32,
+            "features": [
+                "OIS",
+                "4K video",
+                "Motion capture"
+            ]
+        },
+        "os_version": "Android 14 (Nothing OS 2.5)",
+        "weight_grams": 201,
+        "dimensions": "162.1 x 76.4 x 8.6 mm",
+        "special_features": [
+            "Glyph Interface 2.0",
+            "Wireless charging",
+            "Premium build",
+            "Stock-like Android"
+        ],
+        "rating": 4.4,
+        "reviews_count": 9200,
+        "image_url": "https://nothing.tech/cdn/shop/files/Phone2_White_Front.png"
+    },
+    {
+        "id": "vivo-v30",
+        "brand": "Vivo",
+        "model": "V30 5G",
+        "price_inr": 33999,
+        "display_size": 6.78,
+        "display_type": "AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2800x1260",
+        "processor": "Snapdragon 7 Gen 3",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": false,
+        "battery_mah": 5000,
+        "fast_charging_watts": 80,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 50,
+            "telephoto_mp": null,
+            "front_mp": 50,
+            "features": [
+                "OIS",
+                "Zeiss optics",
+                "Aura Light",
+                "4K video"
+            ]
+        },
+        "os_version": "Android 14 (Funtouch OS 14)",
+        "weight_grams": 186,
+        "dimensions": "161.2 x 74.6 x 7.4 mm",
+        "special_features": [
+            "Zeiss camera",
+            "50MP front camera",
+            "Portrait Master",
+            "IP54"
+        ],
+        "rating": 4.3,
+        "reviews_count": 5400,
+        "image_url": "https://www.vivo.com/in/products/v30/images/design-1.png"
+    },
+    {
+        "id": "oppo-reno-11",
+        "brand": "Oppo",
+        "model": "Reno 11 5G",
+        "price_inr": 29999,
+        "display_size": 6.7,
+        "display_type": "AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2412x1080",
+        "processor": "MediaTek Dimensity 7050",
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 5000,
+        "fast_charging_watts": 67,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 8,
+            "telephoto_mp": 32,
+            "front_mp": 32,
+            "features": [
+                "OIS",
+                "2x telephoto",
+                "Portrait mode",
+                "4K video"
+            ]
+        },
+        "os_version": "Android 14 (ColorOS 14)",
+        "weight_grams": 181,
+        "dimensions": "162.4 x 74.1 x 7.9 mm",
+        "special_features": [
+            "Telephoto portrait",
+            "Ultra Slim",
+            "Splash resistant",
+            "AI features"
+        ],
+        "rating": 4.2,
+        "reviews_count": 4200,
+        "image_url": "https://image.oppo.com/content/dam/oppo/product-asset-library/reno/reno11-5g/v1/assets/reno11-5g.png"
+    },
+    {
+        "id": "motorola-edge-50-pro",
+        "brand": "Motorola",
+        "model": "Edge 50 Pro",
+        "price_inr": 35999,
+        "display_size": 6.7,
+        "display_type": "pOLED",
+        "refresh_rate": 144,
+        "resolution": "2712x1220",
+        "processor": "Snapdragon 7 Gen 3",
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 4500,
+        "fast_charging_watts": 125,
+        "wireless_charging": true,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 13,
+            "telephoto_mp": 10,
+            "front_mp": 50,
+            "features": [
+                "OIS",
+                "3x telephoto",
+                "4K video",
+                "Moto AI"
+            ]
+        },
+        "os_version": "Android 14 (Hello UI)",
+        "weight_grams": 186,
+        "dimensions": "161.2 x 72.4 x 8.2 mm",
+        "special_features": [
+            "125W TurboPower",
+            "15W wireless",
+            "IP68",
+            "144Hz display"
+        ],
+        "rating": 4.4,
+        "reviews_count": 3800,
+        "image_url": "https://motorola.com/images/products/edge-50-pro.png"
+    },
+    {
+        "id": "iphone-15",
+        "brand": "Apple",
+        "model": "iPhone 15",
+        "price_inr": 79900,
+        "display_size": 6.1,
+        "display_type": "Super Retina XDR OLED",
+        "refresh_rate": 60,
+        "resolution": "2556x1179",
+        "processor": "Apple A16 Bionic",
+        "ram_gb": 6,
+        "storage_gb": 128,
+        "expandable_storage": false,
+        "battery_mah": 3349,
+        "fast_charging_watts": 20,
+        "wireless_charging": true,
+        "camera": {
+            "main_mp": 48,
+            "ultra_wide_mp": 12,
+            "telephoto_mp": null,
+            "front_mp": 12,
+            "features": [
+                "OIS",
+                "Photonic Engine",
+                "Portrait mode",
+                "Cinematic video",
+                "Action mode"
+            ]
+        },
+        "os_version": "iOS 17",
+        "weight_grams": 171,
+        "dimensions": "147.6 x 71.6 x 7.8 mm",
+        "special_features": [
+            "Dynamic Island",
+            "USB-C",
+            "Ceramic Shield",
+            "IP68",
+            "5 years updates"
+        ],
+        "rating": 4.7,
+        "reviews_count": 45000,
+        "image_url": "https://store.apple.com/in/shop/images/iphone-15.png"
+    },
+    {
+        "id": "iphone-15-pro",
+        "brand": "Apple",
+        "model": "iPhone 15 Pro",
+        "price_inr": 134900,
+        "display_size": 6.1,
+        "display_type": "Super Retina XDR ProMotion OLED",
+        "refresh_rate": 120,
+        "resolution": "2556x1179",
+        "processor": "Apple A17 Pro",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": false,
+        "battery_mah": 3274,
+        "fast_charging_watts": 20,
+        "wireless_charging": true,
+        "camera": {
+            "main_mp": 48,
+            "ultra_wide_mp": 12,
+            "telephoto_mp": 12,
+            "front_mp": 12,
+            "features": [
+                "OIS",
+                "3x optical",
+                "ProRAW",
+                "Log video",
+                "Spatial video"
+            ]
+        },
+        "os_version": "iOS 17",
+        "weight_grams": 187,
+        "dimensions": "146.6 x 70.6 x 8.3 mm",
+        "special_features": [
+            "Titanium build",
+            "Action button",
+            "USB-C 3.0",
+            "ProMotion",
+            "Console gaming"
+        ],
+        "rating": 4.8,
+        "reviews_count": 38000,
+        "image_url": "https://store.apple.com/in/shop/images/iphone-15-pro.png"
+    },
+    {
+        "id": "samsung-s23-fe",
+        "brand": "Samsung",
+        "model": "Galaxy S23 FE",
+        "price_inr": 49999,
+        "display_size": 6.4,
+        "display_type": "Dynamic AMOLED 2X",
+        "refresh_rate": 120,
+        "resolution": "2340x1080",
+        "processor": "Exynos 2200",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": false,
+        "battery_mah": 4500,
+        "fast_charging_watts": 25,
+        "wireless_charging": true,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 12,
+            "telephoto_mp": 8,
+            "front_mp": 10,
+            "features": [
+                "OIS",
+                "3x optical",
+                "Nightography",
+                "8K video"
+            ]
+        },
+        "os_version": "Android 14 (One UI 6)",
+        "weight_grams": 209,
+        "dimensions": "158 x 76.5 x 8.2 mm",
+        "special_features": [
+            "Fan Edition",
+            "IP68",
+            "Wireless PowerShare",
+            "Samsung DeX"
+        ],
+        "rating": 4.3,
+        "reviews_count": 7600,
+        "image_url": "https://images.samsung.com/in/smartphones/galaxy-s23-fe/images/galaxy-s23-fe-highlights-graphite.jpg"
+    },
+    {
+        "id": "oneplus-nord-ce4",
+        "brand": "OnePlus",
+        "model": "Nord CE4",
+        "price_inr": 24999,
+        "display_size": 6.7,
+        "display_type": "AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2412x1080",
+        "processor": "Snapdragon 7 Gen 3",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": false,
+        "battery_mah": 5500,
+        "fast_charging_watts": 100,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 8,
+            "telephoto_mp": null,
+            "front_mp": 16,
+            "features": [
+                "OIS",
+                "4K video",
+                "Nightscape 2.0"
+            ]
+        },
+        "os_version": "Android 14 (OxygenOS 14)",
+        "weight_grams": 184,
+        "dimensions": "162.6 x 75.1 x 7.8 mm",
+        "special_features": [
+            "100W SUPERVOOC",
+            "Aqua Touch",
+            "5500mAh battery",
+            "RAM Vita"
+        ],
+        "rating": 4.3,
+        "reviews_count": 9800,
+        "image_url": "https://oasis.opstatics.com/content/dam/oasis/page/2024/in/nord-ce4/specs/dark-chrome.png"
+    },
+    {
+        "id": "iqoo-12",
+        "brand": "Vivo",
+        "model": "iQOO 12 5G",
+        "price_inr": 52999,
+        "display_size": 6.78,
+        "display_type": "LTPO AMOLED",
+        "refresh_rate": 144,
+        "resolution": "3168x1440",
+        "processor": "Snapdragon 8 Gen 3",
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 5000,
+        "fast_charging_watts": 120,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 50,
+            "telephoto_mp": 64,
+            "front_mp": 16,
+            "features": [
+                "OIS",
+                "Gimbal stabilization",
+                "8K video",
+                "Periscope zoom"
+            ]
+        },
+        "os_version": "Android 14 (Funtouch OS 14)",
+        "weight_grams": 205,
+        "dimensions": "164.1 x 75.8 x 8.1 mm",
+        "special_features": [
+            "Gaming flagship",
+            "V3 chip",
+            "144Hz 2K display",
+            "Dual X-axis motors"
+        ],
+        "rating": 4.5,
+        "reviews_count": 11200,
+        "image_url": "https://www.iqoo.com/in/images/iqoo12/design.png"
+    },
+    {
+        "id": "redmi-note-13",
+        "brand": "Xiaomi",
+        "model": "Redmi Note 13 5G",
+        "price_inr": 17999,
+        "display_size": 6.67,
+        "display_type": "AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2400x1080",
+        "processor": "MediaTek Dimensity 6080",
+        "ram_gb": 6,
+        "storage_gb": 128,
+        "expandable_storage": true,
+        "battery_mah": 5000,
+        "fast_charging_watts": 33,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 108,
+            "ultra_wide_mp": null,
+            "telephoto_mp": null,
+            "front_mp": 16,
+            "features": [
+                "Night mode",
+                "Portrait"
+            ]
+        },
+        "os_version": "Android 14 (MIUI 14)",
+        "weight_grams": 188,
+        "dimensions": "161.2 x 74.9 x 7.6 mm",
+        "special_features": [
+            "108MP camera",
+            "Slim design",
+            "Dolby Atmos",
+            "IR Blaster"
+        ],
+        "rating": 4.1,
+        "reviews_count": 18500,
+        "image_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0225/pms_1705386632.png"
+    },
+    {
+        "id": "samsung-a35",
+        "brand": "Samsung",
+        "model": "Galaxy A35 5G",
+        "price_inr": 29999,
+        "display_size": 6.6,
+        "display_type": "Super AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2340x1080",
+        "processor": "Exynos 1380",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": true,
+        "battery_mah": 5000,
+        "fast_charging_watts": 25,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 8,
+            "telephoto_mp": null,
+            "front_mp": 13,
+            "features": [
+                "OIS",
+                "Night mode",
+                "4K video"
+            ]
+        },
+        "os_version": "Android 14 (One UI 6.1)",
+        "weight_grams": 209,
+        "dimensions": "161.7 x 78 x 8.2 mm",
+        "special_features": [
+            "IP67 water resistant",
+            "Samsung Knox",
+            "4 years updates",
+            "Key Island design"
+        ],
+        "rating": 4.2,
+        "reviews_count": 6800,
+        "image_url": "https://images.samsung.com/in/smartphones/galaxy-a35-5g/images/galaxy-a35-5g-highlights-awesome-navy.jpg"
+    },
+    {
+        "id": "pixel-8-pro",
+        "brand": "Google",
+        "model": "Pixel 8 Pro",
+        "price_inr": 106999,
+        "display_size": 6.7,
+        "display_type": "LTPO OLED",
+        "refresh_rate": 120,
+        "resolution": "2992x1344",
+        "processor": "Google Tensor G3",
+        "ram_gb": 12,
+        "storage_gb": 128,
+        "expandable_storage": false,
+        "battery_mah": 5050,
+        "fast_charging_watts": 30,
+        "wireless_charging": true,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 48,
+            "telephoto_mp": 48,
+            "front_mp": 10,
+            "features": [
+                "OIS",
+                "5x optical zoom",
+                "Magic Eraser",
+                "Photo Unblur",
+                "Best Take",
+                "Night Sight"
+            ]
+        },
+        "os_version": "Android 14",
+        "weight_grams": 213,
+        "dimensions": "162.6 x 76.5 x 8.8 mm",
+        "special_features": [
+            "7 years updates",
+            "Titan M2",
+            "Temperature sensor",
+            "Pro camera controls",
+            "Video Boost"
+        ],
+        "rating": 4.6,
+        "reviews_count": 22000,
+        "image_url": "https://lh3.googleusercontent.com/wT5NMM0s7n6vmqfkXL8qB-1DKEP9GdE9OQ5HpGqY5Ck"
+    },
+    {
+        "id": "poco-m6-pro",
+        "brand": "Xiaomi",
+        "model": "POCO M6 Pro",
+        "price_inr": 12999,
+        "display_size": 6.67,
+        "display_type": "AMOLED",
+        "refresh_rate": 120,
+        "resolution": "2400x1080",
+        "processor": "MediaTek Helio G99 Ultra",
+        "ram_gb": 6,
+        "storage_gb": 128,
+        "expandable_storage": true,
+        "battery_mah": 5000,
+        "fast_charging_watts": 67,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 64,
+            "ultra_wide_mp": null,
+            "telephoto_mp": null,
+            "front_mp": 16,
+            "features": [
+                "Night mode"
+            ]
+        },
+        "os_version": "Android 14 (MIUI 14)",
+        "weight_grams": 179,
+        "dimensions": "161.1 x 74.5 x 8 mm",
+        "special_features": [
+            "Budget AMOLED",
+            "67W charging",
+            "IR Blaster",
+            "Segment first features"
+        ],
+        "rating": 4.1,
+        "reviews_count": 14200,
+        "image_url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0225/pms_1693388285.png"
+    },
+    {
+        "id": "oneplus-12",
+        "brand": "OnePlus",
+        "model": "12",
+        "price_inr": 64999,
+        "display_size": 6.82,
+        "display_type": "LTPO AMOLED",
+        "refresh_rate": 120,
+        "resolution": "3168x1440",
+        "processor": "Snapdragon 8 Gen 3",
+        "ram_gb": 12,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 5400,
+        "fast_charging_watts": 100,
+        "wireless_charging": true,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 48,
+            "telephoto_mp": 64,
+            "front_mp": 32,
+            "features": [
+                "Hasselblad",
+                "OIS",
+                "3x periscope",
+                "8K video",
+                "Hasselblad Pro mode"
+            ]
+        },
+        "os_version": "Android 14 (OxygenOS 14)",
+        "weight_grams": 220,
+        "dimensions": "164.3 x 75.8 x 9.2 mm",
+        "special_features": [
+            "Hasselblad camera",
+            "Aqua Touch",
+            "100W + 50W wireless",
+            "Alert slider",
+            "Dual Vapor Chamber"
+        ],
+        "rating": 4.6,
+        "reviews_count": 19500,
+        "image_url": "https://oasis.opstatics.com/content/dam/oasis/page/2024/in/12/specs/flowy-emerald.png"
+    },
+    {
+        "id": "samsung-a15",
+        "brand": "Samsung",
+        "model": "Galaxy A15 5G",
+        "price_inr": 16999,
+        "display_size": 6.5,
+        "display_type": "Super AMOLED",
+        "refresh_rate": 90,
+        "resolution": "2340x1080",
+        "processor": "MediaTek Dimensity 6100+",
+        "ram_gb": 6,
+        "storage_gb": 128,
+        "expandable_storage": true,
+        "battery_mah": 5000,
+        "fast_charging_watts": 25,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 5,
+            "telephoto_mp": null,
+            "front_mp": 13,
+            "features": [
+                "Night mode",
+                "Portrait"
+            ]
+        },
+        "os_version": "Android 14 (One UI 6)",
+        "weight_grams": 200,
+        "dimensions": "160.1 x 76.8 x 8.4 mm",
+        "special_features": [
+            "Budget 5G",
+            "Samsung Knox",
+            "4 years updates",
+            "Key Island"
+        ],
+        "rating": 4.0,
+        "reviews_count": 21000,
+        "image_url": "https://images.samsung.com/in/smartphones/galaxy-a15-5g/images/galaxy-a15-5g-highlights-blue-black.jpg"
+    },
+    {
+        "id": "motorola-g85",
+        "brand": "Motorola",
+        "model": "Moto G85 5G",
+        "price_inr": 19999,
+        "display_size": 6.67,
+        "display_type": "pOLED",
+        "refresh_rate": 120,
+        "resolution": "2400x1080",
+        "processor": "Snapdragon 6s Gen 3",
+        "ram_gb": 8,
+        "storage_gb": 128,
+        "expandable_storage": true,
+        "battery_mah": 5000,
+        "fast_charging_watts": 33,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 8,
+            "telephoto_mp": null,
+            "front_mp": 32,
+            "features": [
+                "OIS",
+                "Night mode",
+                "4K video"
+            ]
+        },
+        "os_version": "Android 14 (Hello UI)",
+        "weight_grams": 173,
+        "dimensions": "161.9 x 73.1 x 7.6 mm",
+        "special_features": [
+            "Ultra slim 7.6mm",
+            "Curved display",
+            "Vegan leather option",
+            "IP52"
+        ],
+        "rating": 4.2,
+        "reviews_count": 5600,
+        "image_url": "https://motorola.com/images/products/moto-g85.png"
+    },
+    {
+        "id": "iqoo-neo9-pro",
+        "brand": "Vivo",
+        "model": "iQOO Neo9 Pro 5G",
+        "price_inr": 39999,
+        "display_size": 6.78,
+        "display_type": "LTPO AMOLED",
+        "refresh_rate": 144,
+        "resolution": "2800x1260",
+        "processor": "MediaTek Dimensity 9300",
+        "ram_gb": 8,
+        "storage_gb": 256,
+        "expandable_storage": false,
+        "battery_mah": 5160,
+        "fast_charging_watts": 120,
+        "wireless_charging": false,
+        "camera": {
+            "main_mp": 50,
+            "ultra_wide_mp": 8,
+            "telephoto_mp": null,
+            "front_mp": 16,
+            "features": [
+                "OIS",
+                "4K video",
+                "Aura Light"
+            ]
+        },
+        "os_version": "Android 14 (Funtouch OS 14)",
+        "weight_grams": 190,
+        "dimensions": "164.3 x 75.1 x 7.99 mm",
+        "special_features": [
+            "Flagship gaming",
+            "V2 chip",
+            "144Hz display",
+            "Ultra Game Mode"
+        ],
+        "rating": 4.4,
+        "reviews_count": 8900,
+        "image_url": "https://www.iqoo.com/in/images/neo9pro/design.png"
+    }
+]

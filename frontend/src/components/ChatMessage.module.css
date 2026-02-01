@@ -1,0 +1,120 @@
+.messageContainer {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+    animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.user {
+    flex-direction: row-reverse;
+}
+
+.avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+    background: linear-gradient(145deg, #2a2a3e, #1e1e2e);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.user .avatar {
+    background: linear-gradient(145deg, #8b5cf6, #6d28d9);
+}
+
+.messageContent {
+    max-width: 75%;
+    min-width: 100px;
+}
+
+.assistant .messageContent {
+    background: linear-gradient(145deg, #1e1e2e, #2a2a3e);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px 16px 16px 4px;
+    padding: 14px 18px;
+}
+
+.user .messageContent {
+    background: linear-gradient(145deg, #8b5cf6, #7c3aed);
+    border-radius: 16px 16px 4px 16px;
+    padding: 14px 18px;
+}
+
+.text {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #e0e0e0;
+}
+
+.user .text {
+    color: #fff;
+}
+
+.text strong {
+    color: #fff;
+    font-weight: 700;
+}
+
+.listItem {
+    margin-left: 16px;
+    margin-bottom: 4px;
+    color: #c0c0c0;
+}
+
+.user .listItem {
+    color: #f0f0f0;
+}
+
+.productsGrid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 16px;
+    overflow-x: auto;
+    padding-bottom: 8px;
+}
+
+.timestamp {
+    font-size: 10px;
+    color: #606070;
+    margin-top: 8px;
+    text-align: right;
+}
+
+.user .timestamp {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .messageContent {
+        max-width: 85%;
+    }
+
+    .productsGrid {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+    }
+
+    .productsGrid::-webkit-scrollbar {
+        display: none;
+    }
+}
