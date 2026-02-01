@@ -77,7 +77,7 @@ npm run dev
 ```bash
 # Build and run with Docker Compose
 docker-compose up --build
-
+GEMINI_API_KEY="" docker compose up --build
 # Or run individually
 docker build -t shopping-agent-backend ./backend
 docker build -t shopping-agent-frontend ./frontend

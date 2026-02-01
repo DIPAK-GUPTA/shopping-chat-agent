@@ -31,6 +31,9 @@ class Settings(BaseSettings):
     # Rate limiting
     RATE_LIMIT_PER_MINUTE: int = 30
     
+    # Safety settings
+    SAFETY_LLM_ENABLED: bool = True  # Enable LLM-based safety detection
+    
     # CORS settings
     CORS_ORIGINS: list[str] = ["http://localhost:3000", "http://127.0.0.1:3000"]
     

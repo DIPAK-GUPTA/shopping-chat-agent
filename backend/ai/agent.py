@@ -42,6 +42,9 @@ class ShoppingAgent:
                 model_name=settings.GEMINI_MODEL
             )
             self.system_prompt = SYSTEM_PROMPT
+            # Enable LLM-based safety detection
+            safety_filter.set_llm_model(self.model)
+            safety_filter.llm_enabled = settings.SAFETY_LLM_ENABLED
         else:
             self.model = None
             self.system_prompt = ""
